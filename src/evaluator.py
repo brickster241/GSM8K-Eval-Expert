@@ -1,7 +1,5 @@
 import re
 import os
-import json
-import pandas as pd
 
 
 class GSM8K_Evaluator:
